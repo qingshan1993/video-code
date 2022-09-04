@@ -1,6 +1,9 @@
 package com.shu17u.video.jdbc.model;
 
 
+/**
+ * 哲学家
+ */
 public class Philosopher {
 
     /**
